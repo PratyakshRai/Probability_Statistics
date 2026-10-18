@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Statistics of War: Probability & Statistics Lab Project
 
 This project runs every lab technique (descriptive statistics through ANOVA) on public data covering 401 wars fought between 1816 and 2007.
@@ -45,3 +46,6 @@ jupyter nbconvert --to notebook --execute war_stats_project.ipynb --inplace
 ```
 
 The notebook reads from `data/raw/` and writes to `data/clean/` and `figures/`. If you move the folder, change `ROOT` in the first code cell.
+=======
+# Probability_Statistics
+>>>>>>> 4ea5ee1948e65ee76092dae56fdffafd13627279
